@@ -1,2 +1,2 @@
 # Calculator
-Calculator using HTML, CSS and JavaScript
+This mini project is a Simple Web Calculator. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has an interactive user interface with a smooth and user-friendly design.
